@@ -6,7 +6,7 @@ Object-Oriented Programming, is a way of programming where you create "objects" 
 # Objects
 objects are instance of a class.
 # class
-Class is a blue print of an object.
+Class is a blue print of an object.Inside a class, we define variables, constants, member functions, and other functionality.
 -> it is bundle of related data and functions.
 # why use OPPs?
 it helps organize code by grouping related data and behavior together, making it easier to manage and reuse.
