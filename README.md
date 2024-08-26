@@ -10,6 +10,8 @@ Class is a blue print of an object.Inside a class, we define variables, constant
 -> it is bundle of related data and functions.
 # why use OPPs?
 it helps organize code by grouping related data and behavior together, making it easier to manage and reuse.
+![image](https://github.com/user-attachments/assets/7751d5dc-97e6-46e4-9e6f-53e2ddc4e9e7)
+![image](https://github.com/user-attachments/assets/33ae1d37-aac3-4ae4-a096-74d71d73b87d)
 # Fours principles of OOPs?
 1. Encapsulation
 2. Inheritance
