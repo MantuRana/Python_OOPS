@@ -18,3 +18,8 @@ it helps organize code by grouping related data and behavior together, making it
 3. Polymorphism
 4. Abstraction
 # 1.Encapsulation
+Encapsulation is the concept of bundling data (attributes) and methods (functions) that operate on that data into a single unit (class). It hides the internal details of an object.
+# Inheritance
+Inheritance is a mechanism where a subclass or derived class inherits properties and behaviors from superclass or base class.
+# What is a constructor?
+A constructor is a special method that is automatically  initializes the object is created.
