@@ -13,3 +13,4 @@ it helps organize code by grouping related data and behavior together, making it
 2. Inheritance
 3. Polymorphism
 4. Abstraction
+# 1.Encapsulation
